@@ -1,0 +1,52 @@
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\bin\Debug\onurkütüphane.exe.config
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\bin\Debug\onurkütüphane.exe
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\bin\Debug\onurkütüphane.pdb
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.anamenü.resources
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.Form1.resources
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.exe
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.pdb
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.kitapbilgileri.resources
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.ögrencibilgileri.resources
+c:\users\onur\documents\visual studio 2015\Projects\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.personel.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\bin\Debug\onurkütüphane.exe.config
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.exe
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.pdb
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\bin\Debug\onurkütüphane.exe
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\bin\Debug\onurkütüphane.pdb
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.anamenü.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.emanetögr.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.Form1.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.kitapbilgileri.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.personel.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.Properties.Resources.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.ögrencibilgileri.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.raporlama.resources
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\RdlCompile.cache
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\obj\Debug\RdlCompile.compiled
+C:\Users\Onur\Desktop\onurkütüphane\onurkütüphane\bin\Debug\kutuphaneleryeni.mdb
+C:\Users\Onur\Desktop\kütüpjane\onurkütüphane\onurkütüphane\bin\Debug\onurkütüphane.exe.config
+C:\Users\Onur\Desktop\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.exe
+C:\Users\Onur\Desktop\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.pdb
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\bin\Debug\onurkütüphane.exe.config
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.exe
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.pdb
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\bin\Debug\kutuphaneleryeni.mdb
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.csprojResolveAssemblyReference.cache
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.anamenü.resources
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.emanetögr.resources
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.Form1.resources
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.kitapbilgileri.resources
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.personel.resources
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.Properties.Resources.resources
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.raporlama.resources
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.ögrencibilgileri.resources
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\onurkütüphane.csproj.GenerateResource.Cache
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\RdlCompile.cache
+D:\C. C#, PYHTON\kütüpjane\onurkütüphane\onurkütüphane\obj\Debug\RdlCompile.compiled
